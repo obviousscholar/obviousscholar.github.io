@@ -128,7 +128,7 @@ body {
   position: relative;
   border-radius: 0.5em;
   background-color: #102a2a;
-  width: 35em;
+  max-width: 35em;
   height: 100%;
   padding: 1em;
   margin-top: 0;
@@ -136,24 +136,35 @@ body {
   margin-right: auto;
   line-height: 1.3em;
 }
-#content #page .title-container {
-  margin: 1.1em 0;
-  text-align: center;
-}
-#content #page .title-container .nav-arrow {
+#content #page .nav-arrow {
   text-decoration: none;
   position: absolute;
   font-size: 22pt;
   color: #338275;
+  padding-top: 0.5ex;
+  padding-bottom: 0.5ex;
 }
-#content #page .title-container .nav-arrow.left {
+#content #page .nav-arrow.left {
   left: 1em;
+  padding-right: 5em;
 }
-#content #page .title-container .nav-arrow.right {
+#content #page .nav-arrow.right {
   right: 1em;
+  padding-left: 5em;
 }
-#content #page .title-container .nav-arrow:hover {
+#content #page .nav-arrow:hover {
   color: #42a695;
+}
+#content #page .foot-nav {
+  color: #348686;
+  text-align: center;
+}
+#content #page .foot-nav .nav-arc {
+  display: inline;
+}
+#content #page .title-container {
+  margin: 1.1em 0;
+  text-align: center;
 }
 #content #page .title-container .title {
   display: inline;
