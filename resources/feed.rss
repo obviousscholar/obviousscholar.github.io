@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[test]]></title>
+        <description><![CDATA[Waffle Nexus publication news]]></description>
+        <link>http://wafflenexus.com</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Thu, 14 Jan 2021 02:45:47 GMT</lastBuildDate>
+        <atom:link href="http://wafflenexus.com/resources/feed.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Title of a news piece]]></title>
+            <description><![CDATA[<p>Content for a news article.</p>
+<p>January 13th is when this was posted.</p>
+]]></description>
+            <guid isPermaLink="false">Title of a news piece</guid>
+            <pubDate>Wed, 13 Jan 2021 06:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cool stuff and dope stuff and neat stuff, oh my!]]></title>
+            <description><![CDATA[<p>What it says on the tin.</p>
+]]></description>
+            <guid isPermaLink="false">Cool stuff and dope stuff and neat stuff, oh my!</guid>
+            <pubDate>Sat, 16 Jan 2021 06:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
