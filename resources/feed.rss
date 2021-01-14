@@ -4,7 +4,7 @@
         <description><![CDATA[Waffle Nexus publication news]]></description>
         <link>http://wafflenexus.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 14 Jan 2021 02:45:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jan 2021 02:53:12 GMT</lastBuildDate>
         <atom:link href="http://wafflenexus.com/resources/feed.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Title of a news piece]]></title>
